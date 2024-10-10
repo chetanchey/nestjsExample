@@ -21,10 +21,10 @@
   },
   "dependencies": {
     "@nestjs/common": "^10.0.0",
-    "@nestjs/config": "^3.2.3",
+    "@nestjs/config": "github:nestjs/config",
     "@nestjs/core": "^10.0.0",
     "@nestjs/mapped-types": "^2.0.5",
-    "@nestjs/mongoose": "^10.0.10",
+    "@nestjs/mongoose": "github:nestjs/mongoose",
     "@nestjs/platform-express": "^10.0.0",
     "class": "^0.1.4",
     "class-transformer": "^0.5.1",
